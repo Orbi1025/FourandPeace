@@ -122,7 +122,7 @@
                   "flex items-center gap-2 absolute top-8 right-8 md:right-6",
                 children: [
                   (0, l.jsx)("a", {
-                    href: "https://x.com/BinanceBookABC",
+                    href: "https://x.com/fourandpeace_cz",
                     children: (0, l.jsx)(i.default, {
                       src: "/x.svg",
                       alt: "logo",
@@ -133,7 +133,7 @@
                     }),
                   }),
                   (0, l.jsx)("a", {
-                    href: "https://t.me/BinanceBookABC",
+                    href: "https://t.me/fourandpeace_cz",
                     children: (0, l.jsx)(i.default, {
                       src: "/tg.svg",
                       alt: "logo",
@@ -524,10 +524,10 @@
                           children: "telegram",
                         }),
                         (0, l.jsx)("a", {
-                          href: "https://t.me/@BinanceBookABC",
+                          href: "https://t.me/@fourandpeace_cz",
                           className:
                             "single-day text-[#4C4C4C] text-xl !leading-[100%] mb-8",
-                          children: "→ @BinanceBookABC",
+                          children: "→ @fourandpeace_cz",
                         }),
                         (0, l.jsx)("p", {
                           className:
@@ -535,10 +535,10 @@
                           children: "twitter:",
                         }),
                         (0, l.jsx)("a", {
-                          href: "https://x.com/@BinanceBookABC",
+                          href: "https://x.com/@fourandpeace_cz",
                           className:
                             "single-day text-[#4C4C4C] text-xl !leading-[100%]",
-                          children: "→ @BinanceBookABC",
+                          children: "→ @fourandpeace_cz",
                         }),
                       ],
                     }),
@@ -860,10 +860,10 @@
                             children: "telegram",
                           }),
                           (0, l.jsx)("a", {
-                            href: "https://t.me/@BinanceBookABC",
+                            href: "https://t.me/@fourandpeace_cz",
                             className:
                               "single-day text-[#4C4C4C] text-xl !leading-[100%] mb-2",
-                            children: "→ @BinanceBookABC",
+                            children: "→ @fourandpeace_cz",
                           }),
                           (0, l.jsx)("p", {
                             className:
@@ -871,10 +871,10 @@
                             children: "twitter:",
                           }),
                           (0, l.jsx)("a", {
-                            href: "https://x.com/@BinanceBookABC",
+                            href: "https://x.com/@fourandpeace_cz",
                             className:
                               "single-day text-[#4C4C4C] text-xl !leading-[100%]",
-                            children: "→ @BinanceBookABC",
+                            children: "→ @fourandpeace_cz",
                           }),
                         ],
                       }),
