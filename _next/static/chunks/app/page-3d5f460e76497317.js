@@ -144,7 +144,7 @@
                     }),
                   }),
                   (0, l.jsx)("a", {
-                    href: "https://www.dextools.io/app/en/bnb/pair-explorer/0xcomingsoon",
+                    href: "https://www.dextools.io/app/en/bnb/pair-explorer/0x88055797c3290a1d57bf19ca8c771e29eb4af0b2",
                     children: (0, l.jsx)(i.default, {
                       src: "/unknown.svg",
                       alt: "logo",
@@ -155,7 +155,7 @@
                     }),
                   }),
                   (0, l.jsxs)("a", {
-                    href: "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoon",
+                    href: "https://pancakeswap.finance/swap?outputCurrency=0x88055797c3290a1d57bf19ca8c771e29eb4af0b2",
                     className:
                       "border-2 border-[#F0B912] rounded-full px-8 py-2 text-[#F0B912] transition-transform duration-300 hover:scale-105 hover:-translate-y-1 relative",
                     children: [
@@ -513,7 +513,7 @@
                           children: "Buy Now:",
                         }),
                         (0, l.jsx)("a", {
-                          href: "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoon",
+                          href: "https://pancakeswap.finance/swap?outputCurrency=0x88055797c3290a1d57bf19ca8c771e29eb4af0b2",
                           className:
                             "single-day text-[#4C4C4C] text-xl !leading-[100%] mb-8",
                           children: "→ PancakeSwap",
@@ -849,7 +849,7 @@
                             children: "Buy Now:",
                           }),
                           (0, l.jsx)("a", {
-                            href: "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoon",
+                            href: "https://pancakeswap.finance/swap?outputCurrency=0x88055797c3290a1d57bf19ca8c771e29eb4af0b2",
                             className:
                               "single-day text-[#4C4C4C] text-sm !leading-[100%] mb-2",
                             children: "→ PancakeSwap",
